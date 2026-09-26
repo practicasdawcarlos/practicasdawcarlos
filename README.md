@@ -92,17 +92,18 @@ Cofundación y desarrollo de producto, elaboración, innovación, imagen de marc
 
 **Nota: 10 - Matrícula de Honor**
 
-* Montaje y mantenimiento de equipos
-* Configuración de redes LAN/WAN
-* TCP/IP, DHCP y DNS
-* Windows Server y Linux
-* Virtualización
-* Seguridad informática
-* Resolución de incidencias y soporte técnico
+1. Montaje y mantenimiento de equipos
+2. Configuración de redes LAN/WAN
+3. TCP/IP, DHCP y DNS
+4. Windows Server y Linux
+5. Virtualización
+6. Seguridad informática
+7. Resolución de incidencias y soporte técnico
 
 ## Estado de la formación
 
-- [x] SMR finalizado
+- [x] Primer curso de SMR finalizado
+- [x] Segundo curso de SMR finalizado
 - [x] Primer curso de DAW finalizado
 - [ ] Segundo curso de DAW en curso
 
@@ -117,7 +118,7 @@ Cofundación y desarrollo de producto, elaboración, innovación, imagen de marc
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Desarrollo web responsive con Python, Reflex, utilizando Git para el control de versiones y Vercel para el despliegue
+Desarrollo web responsive con Python y Reflex, utilizando Git para el control de versiones y Vercel para el despliegue
 
 |Proyecto|Tecnologías|Estado|
 |:---    |:---:      |---:  |
