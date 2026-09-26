@@ -20,11 +20,11 @@ Actualmente quiero seguir creciendo como desarrollador
 ---
 ## Experiencia
 
-## TUDEFRIGO S.L
+### TUDEFRIGO S.L
 
 **Desarrollador - Contrato de prácticas**
 
-mayo 2026 - junio 2026 | El Ejido, Andalucía | Presencial
+*mayo 2026 - junio 2026 | El Ejido, Andalucía | Presencial*
 
 Participé en el desarrollo de aplicaciones internas trabajando en proyectos reales con impacto directo en la empresa.
 
@@ -38,11 +38,11 @@ Participé en el desarrollo de aplicaciones internas trabajando en proyectos rea
 - Documentación técnica de procesos
 - Participación en reuniones y análisis de necesidades
 
-## RESOLUZION360 S.L
+### RESOLUZION360 S.L
 
 **Desarrollador web - Contrato de prácticas**
 
-marzo 2025 - mayo 2025 | El Ejido, Andalucía | Remoto
+*marzo 2025 - mayo 2025 | El Ejido, Andalucía | Remoto*
 
 Realicé la creación y personalización de páginas web utilizando WordPress y WooCommerce
 
@@ -53,11 +53,11 @@ Realicé la creación y personalización de páginas web utilizando WordPress y 
 + Implementación de medidas de seguridad
 + Personalización mediante CSS, HTML y JavaScript
 
-## HELADOS MELMAR
+### HELADOS MELMAR
 
 **Cofundador - Producto y Desarrollo Web**
 
-junio 2023 - actualidad | La Rábita, Andalucía
+*junio 2023 - actualidad | La Rábita, Andalucía*
 
 Cofundación y desarrollo de producto, elaboración, innovación, imagen de marca y desarrollo web
 
@@ -71,10 +71,10 @@ Cofundación y desarrollo de producto, elaboración, innovación, imagen de marc
 
 **Nota de primer curso: 10**
 
-1. Frontend con HTML5, CSS3 y JavaScript
+1. Frontend con HTML5, CSS3 y JavaScript (`index.html`, `styles.css`)
 2. Backend con Python y bases de datos MySQL y SQLite
 3. Metodologías ágiles con Kanban
-4. Control de versiones con Git y GitHub
+4. Control de versiones con Git y GitHub (`git add`, `git commit`)
 5. APIs REST y consumo de servicios externos
 
 ### Sistemas Microinformáticos y Redes - SMR
@@ -97,21 +97,19 @@ Cofundación y desarrollo de producto, elaboración, innovación, imagen de marc
 - [x] Primer curso de DAW finalizado
 - [ ] Segundo curso de DAW en curso
 
-Durante mi formación he trabajado con archivos como `index.html` y tecnologías como HTML, CSS y JavaScript
-
 ---
 
 ## Proyecto
 
-## Helados Melmar - Diseño y desarrollo web
+### Helados Melmar - Diseño y desarrollo web
 
-Desarrollo web responsive con Python y Reflex, utilizando Git para el control de versiones y Vercel para el despliegue
+Desarrollo web responsive con Python, Reflex, utilizando Git para el control de versiones y Vercel para el despliegue
 
 |Proyecto|Tecnologías|Estado|
 |:---    |:---:      |---:  |
 |Helados Melmar|Python - Reflex - Git - Vercel|Publicado|
 
-## Funcionalidades principales:
+### Funcionalidades principales:
 - Sistema de eventos con calendario
 - Filtros por localidad y año
 - Eventos destacados y carteles
