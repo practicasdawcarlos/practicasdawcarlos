@@ -13,7 +13,7 @@ Aplicaciones Web**
 
 Este camino me ha demostrado que la edad no es un límite, sino una oportunidad para ser valiente y reinventarse
 
-~~Mi camino profesional estaba centrado únicamente en sistemas y soporte técnico.~~
+~~Mi camino profesional estaba centrado solo en sistemas y soporte técnico.~~
 
 Actualmente quiero seguir creciendo como desarrollador
 
@@ -83,6 +83,11 @@ Cofundación y desarrollo de producto, elaboración, innovación, imagen de marc
 
 ### Sistemas Microinformáticos y Redes - SMR
 
+![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redes](https://img.shields.io/badge/REDES-1565C0?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/HARDWARE-555555?style=for-the-badge)
+
 **IES Gaviota | 2023 - 2025**
 
 **Nota: 10 - Matrícula de Honor**
@@ -106,6 +111,11 @@ Cofundación y desarrollo de producto, elaboración, innovación, imagen de marc
 ## Proyecto
 
 ### Helados Melmar - Diseño y desarrollo web
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Reflex](https://img.shields.io/badge/REFLEX-111111?style=for-the-badge)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 Desarrollo web responsive con Python, Reflex, utilizando Git para el control de versiones y Vercel para el despliegue
 
